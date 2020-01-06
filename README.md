@@ -13,3 +13,4 @@ An object is a collection of properties, and a property is an association betwee
 7. Class Inheritance
 8. Constructor (Under the hood)
 9. Prototype
+10. Prototype Inheritance
